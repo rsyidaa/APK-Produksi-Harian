@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "928734819420",
+    "project_id": "laporanpenjualan-b6b42",
+    "storage_bucket": "laporanpenjualan-b6b42.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:928734819420:android:2d06e7599bd1b9a1666299",
+        "android_client_info": {
+          "package_name": "com.example.laporanpenjualan"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWizgtjc8TFZFGj4h8k_JM20xxMtW5bEc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
